@@ -1,2 +1,4 @@
 #ignore credentials
 credentials.csv
+#ignore data file
+data.txt
