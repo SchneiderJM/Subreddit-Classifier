@@ -2,3 +2,5 @@
 credentials.csv
 #ignore data file
 data.txt
+#ignore the gigantic pretrained fasttext model
+fasttextmodel.vec
