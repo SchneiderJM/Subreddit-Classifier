@@ -4,3 +4,7 @@ credentials.csv
 data.txt
 #ignore the gigantic pretrained fasttext model
 fasttextmodel.vec
+#ignore pickles
+*.p
+#Ignore rmd files
+*.Rmd
